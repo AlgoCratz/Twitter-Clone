@@ -1,1 +1,3 @@
-# Twitter-Starter
+# Twitter-Clone
+Running on Avalanche fuji testnet :)
+
